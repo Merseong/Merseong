@@ -4,21 +4,59 @@
 
 2023-, 백도 하고 프론트도 하고 서버관리도 하고
 
+https://github.com/MerseongSanghoe
+
 ## ColorSweeper - 모바일 퍼즐 게임
 
-2023-, 많이함
+2023-, Firebase 서버리스 구성 및 클라이언트
+
+https://github.com/arrkka/ColorSweeper (Private)
+
+https://onelink.to/5f66dn (모바일 서비스중)
 
 ## 모빌리티 정비 관련 브랜드 고객관리 시스템
 
-2022-2023, 혼자 외주받음
+2022-2023, 외주받아 혼자 진행함 (Private)
 
 ## KU-BUS - 장애인 이동지원 서비스
 
-2022, 클라이언트 많이, 서버 조끔 등등 - 
+2022, 클라이언트 많이, 서버는 외적으로 기여
+
+https://github.com/Merseong/KU-BUS (프론트)
+
+https://github.com/Binghagoon/202203tsnode (백)
 
 ## CATDOG
 
-1. DoomWhangCha (2021-Winter, 기획 및 프로그래머 및 리소서 및 서버프로그래머 및 등등) - https://github.com/KU-CATDOG/super-doodle
+### DoomWhangCha
+
+타이핑을 통해 앞으로 나아가 적을 물리치는 게임  
+2021-Winter, 기획 및 프로그래머 및 리소서 및 서버프로그래머 및 등등  
+https://github.com/KU-CATDOG/super-doodle
+
+### 세종25
+
+테트리스99에서 모티브를 얻은 타자연습의 배틀로얄 웹게임  
+2019-Summer, 서버 프로그래머  
+https://git.kucatdog.net/tear-of-sejong/sejong25
+
+### Man in the Mirror
+
+거울과 특수한 탄을 이용해 퍼즐을 해결해나가는 게임, NDM 우수상 수상  
+2019-Spring, 프로그래머 / 3D 리소서  
+https://git.kucatdog.net/mim/man-in-the-mirror  
+
+### For Wat?
+
+물건을 교환해나가며 필요한 물건들을 채워나가는 스토리? 게임  
+2018-Winter, 발안 및 기획 / 서브 프로그래머 / 3D 리소서  
+https://git.kucatdog.net/18Daeseong/for-wat
+
+### Voiceroid RPG
+
+보이스로이드 캐릭터를 이용해 진행하는 RPG 게임  
+2018-Summer, 3D 리소서  
+https://git.kucatdog.net/salguanz/voiceroid-rpg
 
 ## 2020 군장병 공개SW 온라인 해커톤
 
@@ -33,13 +71,6 @@ Unity 연습 프로젝트 - https://github.com/Merseong/Touching-Unity-Example
 
 1. 이별싸움 (기획, 프로그래머) - https://github.com/Merseong/TwoStarsFight
 2. SpaceTollgate (프로그래머) - https://github.com/lhy0718/SpaceTollgate
-
-## CATDOG - NDM 참여작들
-
-1. Voiceroid RPG (2018-Summer, 3D 리소서) - https://git.kucatdog.net/salguanz/voiceroid-rpg
-2. For Wat? (2018-Winter, 발안 및 기획 / 서브 프로그래머 / 3D 리소서) - https://git.kucatdog.net/18Daeseong/for-wat
-3. Man in the Mirror (2019-Spring, 프로그래머 / 3D 리소서) - https://git.kucatdog.net/mim/man-in-the-mirror -> 우수상
-4. 세종25 (2019-Summer, 서버 프로그래머) - https://git.kucatdog.net/tear-of-sejong/sejong25
 
 ## 전공강의 '게임 프로그래밍' 제출작들
 
