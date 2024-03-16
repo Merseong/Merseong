@@ -2,7 +2,7 @@
 
 ## '술자리' - 전통주 데이터베이스 및 추천 서비스
 
-2023-, 백도 하고 프론트도 하고 서버관리도 하고 배포도 하고
+2023-, 서비스 기획 및 총괄, 개발은 백도 하고 프론트도 하고 서버관리도 하고 배포도 하고
 
 2023학년도 2학기 개별연구 및 캡스톤디자인 경진대회 우수상 수상
 
@@ -10,7 +10,7 @@ https://github.com/MerseongSanghoe
 
 ## ColorSweeper - 모바일 퍼즐 게임
 
-2023-, Firebase 서버리스 구성 및 클라이언트
+2023-, Firebase 구성 및 클라이언트, 매니징
 
 https://github.com/arrkka/ColorSweeper (Private)
 
