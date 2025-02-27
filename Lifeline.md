@@ -93,6 +93,8 @@ Unity 연습 프로젝트 - https://github.com/Merseong/Touching-Unity-Example
 
 # Lifelines
 
+* 2025.01- 주식회사 아르까(ARRKKA) 개발 담당
+* 2024.09-2024.12 라쿠텐심포니코리아 현장실습 인턴
 * 2023 크림슨창업동아리 '대성상회' 대표 활동
 * 2022 캣독 회장
 * 2020 캣독 부회장
